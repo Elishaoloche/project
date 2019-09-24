@@ -1,0 +1,84 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif,Verdana, Geneva, Tahoma;
+    margin: 0;
+    padding: 0;
+    /*background-image: url(images/blossoms.jpg);*/
+    background-image: url(images/pexels4.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:default;
+    line-height: 17px;
+    font-size: 85%;
+}
+main, header{
+    margin-left: 16.8em;
+    border-radius: 3em;
+}
+h3, h2, .technical{
+    font-style: italic;
+    text-decoration: underline;
+}
+.web{
+    font-style: italic;
+    font-weight: bold;
+}
+hr{
+    font-weight: bold
+}
+.same{
+    padding-top: 2em;
+   /* border: 2px solid blue;*/
+}
+.about{
+    padding-top: 14em;
+}
+header{
+    line-height: 0px;
+}
+h1{
+    font-family: chiller,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 100px
+}
+
+}
+p{
+    font-family:  verdana, sans-serif;
+}
+.aside .wrapper{
+    /*border: 4px solid blue;*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #dae2e6 ;
+    padding: 10px; 
+	margin-top: 0px; 
+    width: 205px;
+    height: 770px;
+    border-radius: 2em;
+}
+.aside{
+    margin-right: 1120px; 
+	position: absolute; 
+	top: 0; 
+    right: 0;
+}
+#tech{
+    /*border: 4px solid blue;*/
+    width: 15px;
+    position: relative;
+    right: -47em;
+    top: -9.3em;
+    padding-left: 3em;
+    padding-right: 3em;
+}
+#info{
+    border: 
+    /*4px solid  blue;*/
+}
+.wrapper{
+    padding-top: 10em;
+}
+.expert{
+    /*border: 4px solid blue;*/
+    position: relative;
+    top: -9em;
+}
